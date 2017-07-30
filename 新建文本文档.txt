@@ -1,0 +1,4 @@
+第一步，在code目录下新建文件，包括不限定py结尾的
+第二部，打开Git-GUI，stage，添加到本地版本控制。
+第三部，Git-GUI commit（备注）
+第四部,Git-bash ： git push origin master，直接push也可
